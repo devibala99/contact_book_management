@@ -1,0 +1,52 @@
+{
+  "C001": {
+    "name": "Devi Bala",
+    "phone": "8907651423",
+    "email": "devibala@gmail.com"
+  },
+  "C002": {
+    "name": "Aarav Sharma",
+    "phone": "9812345678",
+    "email": "aarav.sharma@outlook.com"
+  },
+  "C003": {
+    "name": "Ananya Patel",
+    "phone": "9723456789",
+    "email": "ananya.p@gmail.com"
+  },
+  "C004": {
+    "name": "Ishaan Verma",
+    "phone": "8134567890",
+    "email": "ishaan.v@company.in"
+  },
+  "C005": {
+    "name": "Sanya Malhotra",
+    "phone": "7245678901",
+    "email": "sanya.m@yahoo.co.in"
+  },
+  "C006": {
+    "name": "Vihaan Reddy",
+    "phone": "9356789012",
+    "email": "vihaan.reddy@gmail.com"
+  },
+  "C007": {
+    "name": "Diya Iyer",
+    "phone": "9467890123",
+    "email": "diya.iyer@protonmail.com"
+  },
+  "C008": {
+    "name": "Kabir Mukherjee",
+    "phone": "8578901234",
+    "email": "kabir.m@startup.io"
+  },
+  "C009": {
+    "name": "Advait Kulkarni",
+    "phone": "9689012345",
+    "email": "advait.k@gmail.com"
+  },
+  "C010": {
+    "name": "Meera Joshi",
+    "phone": "7790123456",
+    "email": "meera.joshi@icloud.com"
+  }
+}
